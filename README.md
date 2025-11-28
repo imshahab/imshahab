@@ -26,8 +26,7 @@
 - 🧠 Self-taught in Linux, system tinkering, and web dev
 - 🧪 Love experimenting with OSes and Hackintoshes
 - 💬 Ask me about **web development, open source, or tech in general!**
-- ⚡ Fun fact: I love pizza and pixel art!
-
+  
 ---
 
 ## 🛠️ Languages & Tools
