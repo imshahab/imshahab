@@ -1,25 +1,5 @@
 <!-- Profile README for imshahab -->
 
-<h1 align="center">Hi 👋, I'm Shahab</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=1D9CF0&center=true&vCenter=true&width=435&lines=Web+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/imshahab">
-    <img src="https://img.shields.io/github/followers/imshahab?label=Follow&style=social" />
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/yourlinkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## About Me
 
 - Studying Computer Engineering
