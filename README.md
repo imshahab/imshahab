@@ -20,12 +20,11 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 Studying Computer Engineering at **Golestan University**
-- 🧠 Self-taught in Linux, system tinkering, and web dev
-- 🧪 Love experimenting with OSes and Hackintoshes
-- 💬 Ask me about **web development, open source, or tech in general!**
+- Studying Computer Engineering
+- Interested in web dev, Linux, and tinkering with computers
+- Love experimenting with OSes and Hackintoshes
   
 ---
 
