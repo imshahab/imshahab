@@ -3,7 +3,7 @@
 ## About Me
 
 - Studying Computer Engineering
-- Interested in web dev, Linux, and tinkering with computers
+- Interested in software engineering, Linux, and tinkering with computers
 - Love experimenting with OSes and Hackintoshes
   
 ---
